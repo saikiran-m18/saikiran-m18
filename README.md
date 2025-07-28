@@ -1,48 +1,75 @@
-Hi there Madavaram Sai Kiran👋
+# 👋 Hi there! I'm Madavaram Sai Kiran
 
-🙋‍♂️ About Me
+---
 
-Madavaram Sai Kiran I'm a dedicated Computer Science student with a strong foundation in full-stack web development. I enjoy building interactive applications, learning emerging technologies, and solving real-world problems. I'm always curious, always building, and eager to contribute to impactful projects.
+## 🙋‍♂️ About Me
 
-🧠 Skills
+I'm a dedicated Computer Science student with a strong foundation in full-stack web development.  
+I enjoy:
 
-Languages: Python, Java, C, RFrontend: HTML, CSS, JS, React, Bootstrap, Tailwind CSSBackend: Node.js, Express.jsDatabases: MongoDB, MySQL
+- 🧩 Building interactive applications  
+- 🚀 Learning emerging technologies  
+- 🛠️ Solving real-world problems  
 
-🚀 Projects
+I'm always curious, always building, and eager to contribute to impactful projects.
 
-🌫️ Air Quality System (2025)
+---
+
+## 🧠 Skills
+
+- **Languages**: Python, Java, C, R  
+- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Databases**: MongoDB, MySQL
+
+---
+
+## 🚀 Projects
+
+### 🌫️ Air Quality System *(2025)*
 
 Real-time monitoring and forecasting using ML models.
 
-Tech: Python, ML, Pandas, Matplotlib
+- **Tech**: Python, ML, Pandas, Matplotlib
 
-💸 Expense Tracker (2024)
+### 💸 Expense Tracker *(2024)*
 
 Manage expenses with a responsive UI and state management.
 
-Tech: React, Tailwind CSS
+- **Tech**: React, Tailwind CSS
 
-🎓 Education
+---
 
-B.Tech - CSE – SIET, Hyderabad (8.1 CGPA)
+## 🎓 Education
 
-Intermediate – Narayana Jr. College (89.5%)
+- **B.Tech - CSE** – SIET, Hyderabad *(8.1 CGPA)*  
+- **Intermediate** – Narayana Jr. College *(89.5%)*  
+- **10th** – Nagarjuna School *(9.8 CGPA)*
 
-10th – Nagarjuna School (9.8 CGPA)
+---
 
-📜 Certifications
+## 📜 Certifications
 
-Front-End Development – Simplilearn
+- Front-End Development – Simplilearn  
+- Java Fundamentals – Scaler
 
-Java Fundamentals – Scaler
+---
 
-💡 Profiles
+## 💡 Coding Profiles
 
-HackerRank
+- [HackerRank](https://www.hackerrank.com/profile/madavaramsaikir2)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/madavaramdd22/)
 
-GeeksforGeeks
+---
 
-🤝 Let's Connect!
+## 🤝 Let's Connect!
 
-Open to collaborations and internships 🚀🔗 GitHub | LinkedIn
+Open to:
 
+- 🤝 Collaborations  
+- 🧪 Internships  
+
+**Connect with me:**
+
+- 🔗 [GitHub](https://github.com/saikiran-m18)  
+- 🔗 [LinkedIn](https://in.linkedin.com/in/madavaram-saikiran-035a19281)
